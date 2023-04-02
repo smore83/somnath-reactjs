@@ -21,6 +21,6 @@
       "src/stories/oraganisms/ParentChild",
       "src/stories/atoms/button",
       "../practise-app/src/components/FetchApi"
-    ]
+, "public/oraganisms"    ]
   }
   
